@@ -65,7 +65,7 @@ export default {
                 {
                     hid: 'og-title',
                     property: 'og:title',
-                    content: this.metadata.title,
+                    content: '&#12644; &#x3164;',
                 },
                 {
                     hid: 'og-type',
@@ -80,7 +80,7 @@ export default {
                 {
                     hid: 'og-description',
                     property: 'og:description',
-                    content: '...',
+                    content: '&#12644; &#x3164;',
                 },
 
                 {
