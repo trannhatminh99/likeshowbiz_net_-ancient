@@ -77,11 +77,7 @@ export default {
                     property: 'og:url',
                     content: this.path,
                 },
-                {
-                    hid: 'og-description',
-                    property: 'og:description',
-                    content: '&#12644; &#x3164;',
-                },
+            
 
                 {
                     hid: 'og-image',
